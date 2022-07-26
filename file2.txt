@@ -1,0 +1,2 @@
+Added text in file2.txt
+Blah blah
